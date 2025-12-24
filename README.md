@@ -1,5 +1,5 @@
-# VA Disability Payment Calendar (2025)
-This repository provides `.ics` calendar files for VA disability payments in 2025, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
+# VA Disability Payment Calendar (2026)
+This repository provides `.ics` calendar files for VA disability payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
 
 ## 📌 About
 Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
@@ -9,22 +9,22 @@ Many veterans receive their VA disability payments on a different schedule depen
 
 Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
 
-## 📅 Payment Schedule for 2025
+## 📅 Payment Schedule for 2026
 
 | Month      | VA Official Date | Early Deposit Date |
 |------------|----------------|-------------------|
-| January    | Jan 31, 2025    | Jan 30, 2025     |
-| February   | Feb 28, 2025    | Feb 27, 2025     |
-| March      | Apr 1, 2025     | Mar 31, 2025     |
-| April      | May 1, 2025     | Apr 30, 2025     |
-| May        | May 30, 2025    | May 29, 2025     |
-| June       | Jul 1, 2025     | Jun 30, 2025     |
-| July       | Aug 1, 2025     | Jul 31, 2025     |
-| August     | Aug 29, 2025    | Aug 28, 2025     |
-| September  | Oct 1, 2025     | Sep 30, 2025     |
-| October    | Oct 31, 2025    | Oct 30, 2025     |
-| November   | Dec 1, 2025     | Nov 28, 2025     |
-| December   | Dec 31, 2025    | Dec 30, 2025     |
+| January    | Jan 31, 2026    | Jan 30, 2026     |
+| February   | Feb 28, 2026    | Feb 27, 2026     |
+| March      | Apr 1, 2026     | Mar 31, 2026     |
+| April      | May 1, 2026     | Apr 30, 2026     |
+| May        | May 30, 2026    | May 29, 2026     |
+| June       | Jul 1, 2026     | Jun 30, 2026     |
+| July       | Aug 1, 2026     | Jul 31, 2026     |
+| August     | Aug 29, 2026    | Aug 28, 2026     |
+| September  | Oct 1, 2026     | Sep 30, 2026     |
+| October    | Oct 31, 2026    | Oct 30, 2026     |
+| November   | Dec 1, 2026     | Nov 28, 2026     |
+| December   | Dec 31, 2026    | Dec 30, 2026     |
 
 ## 🔧 How to Use
 ### Importing into Google Calendar
