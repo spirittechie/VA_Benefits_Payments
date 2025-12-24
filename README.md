@@ -2,12 +2,13 @@
 This repository provides `.ics` calendar files for VA disability payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
 
 ## 📌 About
-Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
+Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes `.ics` calendar files for various early deposit schedules:
 
 1. **VA_Standard.ics** - The standard VA disability payment dates.
 2. **VA_EarlyDeposit_1Day.ics** - Adjusted payment dates for those who receive funds **one day early**.
-
-Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
+3. **VA_EarlyDeposit_2Days.ics** - Adjusted payment dates for those who receive funds **two days early**.
+4. **VA_EarlyDeposit_3Days.ics** - Adjusted payment dates for those who receive funds **three days early**.
+5. **VA_EarlyDeposit_4Days.ics** - Adjusted payment dates for those who receive funds **four days early**.
 
 ## 📅 Payment Schedule for 2026
 
@@ -31,6 +32,9 @@ Future updates may include **customized versions** for institutions that release
 1. **Download the `.ics` file** you need:
    - [VA_Standard.ics](VA_Standard.ics) *(Standard VA Schedule)*
    - [VA_EarlyDeposit_1Day.ics](VA_EarlyDeposit_1Day.ics) *(One-Day Early Deposit Schedule)*
+   - [VA_EarlyDeposit_2Days.ics](VA_EarlyDeposit_2Days.ics) *(Two-Days Early Deposit Schedule)*
+   - [VA_EarlyDeposit_3Days.ics](VA_EarlyDeposit_3Days.ics) *(Three-Days Early Deposit Schedule)*
+   - [VA_EarlyDeposit_4Days.ics](VA_EarlyDeposit_4Days.ics) *(Four-Days Early Deposit Schedule)*
 
 2. **Open Google Calendar** on your desktop.
 3. Click on the ⚙ **Settings** icon → Select **Import & Export**.
@@ -61,5 +65,3 @@ We will create new `.ics` files accordingly.
 This project is **not affiliated with the VA or any government agency**. Payment dates are based on publicly available data and user-reported deposit times. Always check with your financial institution to confirm your specific deposit schedule.
 
 ---
-
-Let me know if you want any adjustments before you upload it!
