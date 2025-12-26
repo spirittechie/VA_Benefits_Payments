@@ -1,10 +1,10 @@
-# VA Disability Payment Calendar (2026)
-This repository provides `.ics` calendar files for VA disability payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
+# VA Benefits Payment Calendar (2026)
+This repository provides `.ics` calendar files for VA benefits payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
 
 ## 📌 About
-Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
+Many veterans receive their VA benefits payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
 
-1. **VA_Standard.ics** - The standard VA disability payment dates.
+1. **VA_Standard.ics** - The standard VA benefits payment dates.
 2. **VA_EarlyDeposit_1Day.ics** - Adjusted payment dates for those who receive funds **one day early**.
 
 Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
@@ -51,7 +51,7 @@ Updated List of Banks/Credit Unions Known for Early Deposits:
 
 1-3 Days Early: USAA, Navy Federal Credit Union (NFCU), PenFed, America First CU, Armed Forces Bank, FrontWave Credit Union 
 reddit.com +3
- . (E.g., often 1-3 days for VA disability benefits 
+ . (E.g., often 1-3 days for VA benefits 
 vaclaimsinsider.com
 .)
 Up to 2-4 Days Early: Chime (up to 2 days standard, sometimes more if weekends) 
