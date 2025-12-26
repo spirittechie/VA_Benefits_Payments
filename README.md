@@ -1,14 +1,13 @@
-# VA Disability Payment Calendar (2026)
-This repository provides `.ics` calendar files for VA disability payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
+# VA Benefits Payment Calendar (2026)
+This repository provides `.ics` calendar files for VA benefits payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
 
 ## 📌 About
-Many veterans receive their VA disability payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes `.ics` calendar files for various early deposit schedules:
+Many veterans receive their VA benefits payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
 
-1. **VA_Standard.ics** - The standard VA disability payment dates.
+1. **VA_Standard.ics** - The standard VA benefits payment dates.
 2. **VA_EarlyDeposit_1Day.ics** - Adjusted payment dates for those who receive funds **one day early**.
-3. **VA_EarlyDeposit_2Days.ics** - Adjusted payment dates for those who receive funds **two days early**.
-4. **VA_EarlyDeposit_3Days.ics** - Adjusted payment dates for those who receive funds **three days early**.
-5. **VA_EarlyDeposit_4Days.ics** - Adjusted payment dates for those who receive funds **four days early**.
+
+Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
 
 ## 📅 Payment Schedule for 2026
 
@@ -32,9 +31,6 @@ Many veterans receive their VA disability payments on a different schedule depen
 1. **Download the `.ics` file** you need:
    - [VA_Standard.ics](VA_Standard.ics) *(Standard VA Schedule)*
    - [VA_EarlyDeposit_1Day.ics](VA_EarlyDeposit_1Day.ics) *(One-Day Early Deposit Schedule)*
-   - [VA_EarlyDeposit_2Days.ics](VA_EarlyDeposit_2Days.ics) *(Two-Days Early Deposit Schedule)*
-   - [VA_EarlyDeposit_3Days.ics](VA_EarlyDeposit_3Days.ics) *(Three-Days Early Deposit Schedule)*
-   - [VA_EarlyDeposit_4Days.ics](VA_EarlyDeposit_4Days.ics) *(Four-Days Early Deposit Schedule)*
 
 2. **Open Google Calendar** on your desktop.
 3. Click on the ⚙ **Settings** icon → Select **Import & Export**.
@@ -47,11 +43,36 @@ Many veterans receive their VA disability payments on a different schedule depen
 3. Select the `.ics` file and choose which calendar to add the events to.
 
 ## 🏦 Financial Institutions & Early Deposits
-Some banks and credit unions **release funds early** (1–3 days before the official date). If your bank follows this policy and you’d like a custom `.ics` file for your schedule, **open an issue** or submit a pull request.
+Some banks and credit unions release funds early (1–4 days before the official VA date, depending on weekends/holidays and bank policies) 
+chime.com +2
+ . This is common for military/veteran-focused institutions. If your bank follows this, you can request custom .ics files via issues or PRs.
 
-### Banks/Credit Unions Known for Early Deposits:
-- **1 Day Early**: America First CU, NFCU, PenFed, USAA
-- **2+ Days Early**: Chime, SoFi, Varo
+Updated List of Banks/Credit Unions Known for Early Deposits:
+
+1-3 Days Early: USAA, Navy Federal Credit Union (NFCU), PenFed, America First CU, Armed Forces Bank, FrontWave Credit Union 
+reddit.com +3
+ . (E.g., often 1-3 days for VA benefits 
+vaclaimsinsider.com
+.)
+Up to 2-4 Days Early: Chime (up to 2 days standard, sometimes more if weekends) 
+chime.com
+, SoFi, Varo, Discover Bank 
+reddit.com
+. (Some users report 4 days early on weekends 
+reddit.com
+.)
+Other Options: AmeriCU and VBBP-participating banks/credit unions (experienced with veteran direct deposits, may offer early access) 
+benefits.va.gov +1
+ .
+For the absolute earliest deposits, banks like Chime can provide up to 2 days early routinely 
+chime.com
+, while others like USAA or NFCU may hit 3-4 days if the official date falls near a weekend/holiday 
+reddit.com +1
+ . Always verify with your bank, as VA payments are made in arrears on the first business day of the following month (or last business day prior if a holiday) 
+military.com +2
+ .
+
+If you share more details (e.g., specific banks or how many days early), I can help refine this further or generate sample .ics files!
 
 ## 📩 Contributing & Requests
 If your financial institution deposits **earlier than one day**, let us know! Open a GitHub issue with:
@@ -65,3 +86,5 @@ We will create new `.ics` files accordingly.
 This project is **not affiliated with the VA or any government agency**. Payment dates are based on publicly available data and user-reported deposit times. Always check with your financial institution to confirm your specific deposit schedule.
 
 ---
+
+Let me know if you want any adjustments before you upload it!
