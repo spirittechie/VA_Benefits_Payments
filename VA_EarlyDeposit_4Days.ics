@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jesse Paul//VA Benefits Calendar//EN
+PRODID:-//VA Benefits Payment Calendar//EN
 BEGIN:VEVENT
 UID:va-2026-january-4days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z

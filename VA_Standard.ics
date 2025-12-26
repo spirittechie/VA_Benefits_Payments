@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//VA Benefits Payment Schedule//EN
+PRODID:-//VA Benefits Payment Calendar//EN
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 SUMMARY:VA Benefits Payment
