@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jesse Paul//VA Disability Calendar//EN
+PRODID:-//Jesse Paul//VA Benefits Calendar//EN
 BEGIN:VEVENT
 UID:va-2026-january-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-SUMMARY:VA Disability Payment - January 2026
+SUMMARY:VA Benefits Payment - January 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +14,7 @@ UID:va-2026-february-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
-SUMMARY:VA Disability Payment - February 2026
+SUMMARY:VA Benefits Payment - February 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ UID:va-2026-march-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-SUMMARY:VA Disability Payment - March 2026
+SUMMARY:VA Benefits Payment - March 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +30,7 @@ UID:va-2026-april-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:VA Disability Payment - April 2026
+SUMMARY:VA Benefits Payment - April 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +38,7 @@ UID:va-2026-may-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:VA Disability Payment - May 2026
+SUMMARY:VA Benefits Payment - May 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ UID:va-2026-june-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:VA Disability Payment - June 2026
+SUMMARY:VA Benefits Payment - June 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ UID:va-2026-july-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:VA Disability Payment - July 2026
+SUMMARY:VA Benefits Payment - July 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +62,7 @@ UID:va-2026-august-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:VA Disability Payment - August 2026
+SUMMARY:VA Benefits Payment - August 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ UID:va-2026-september-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:VA Disability Payment - September 2026
+SUMMARY:VA Benefits Payment - September 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +78,7 @@ UID:va-2026-october-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:VA Disability Payment - October 2026
+SUMMARY:VA Benefits Payment - October 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +86,7 @@ UID:va-2026-november-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:VA Disability Payment - November 2026
+SUMMARY:VA Benefits Payment - November 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +94,7 @@ UID:va-2026-december-3days.ics@jessepaul.com
 DTSTAMP:20251224T021533Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-SUMMARY:VA Disability Payment - December 2026
+SUMMARY:VA Benefits Payment - December 2026
 DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
 END:VEVENT
 END:VCALENDAR
