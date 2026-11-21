@@ -1,64 +1,163 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 PRODID:-//VA Benefits Payment Calendar//EN
+X-WR-CALNAME:VA Benefits Payments 2027
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for January 2026
+UID:va-benefits-2027-01-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:VA Benefits Payment - January 2027
+DESCRIPTION:Calculated VA payment date for January 2027 benefits. VA pays b
+ enefits in arrears and generally releases payment on the first of the foll
+ owing month\, or the preceding banking day when the first is a weekend or 
+ federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for February 2026
+UID:va-benefits-2027-02-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:VA Benefits Payment - February 2027
+DESCRIPTION:Calculated VA payment date for February 2027 benefits. VA pays 
+ benefits in arrears and generally releases payment on the first of the fol
+ lowing month\, or the preceding banking day when the first is a weekend or
+  federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for March 2026
+UID:va-benefits-2027-03-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:VA Benefits Payment - March 2027
+DESCRIPTION:Calculated VA payment date for March 2027 benefits. VA pays ben
+ efits in arrears and generally releases payment on the first of the follow
+ ing month\, or the preceding banking day when the first is a weekend or fe
+ deral holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for April 2026
+UID:va-benefits-2027-04-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:VA Benefits Payment - April 2027
+DESCRIPTION:Calculated VA payment date for April 2027 benefits. VA pays ben
+ efits in arrears and generally releases payment on the first of the follow
+ ing month\, or the preceding banking day when the first is a weekend or fe
+ deral holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for May 2026
+UID:va-benefits-2027-05-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:VA Benefits Payment - May 2027
+DESCRIPTION:Calculated VA payment date for May 2027 benefits. VA pays benef
+ its in arrears and generally releases payment on the first of the followin
+ g month\, or the preceding banking day when the first is a weekend or fede
+ ral holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for June 2026
+UID:va-benefits-2027-06-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:VA Benefits Payment - June 2027
+DESCRIPTION:Calculated VA payment date for June 2027 benefits. VA pays bene
+ fits in arrears and generally releases payment on the first of the followi
+ ng month\, or the preceding banking day when the first is a weekend or fed
+ eral holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for July 2026
+UID:va-benefits-2027-07-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:VA Benefits Payment - July 2027
+DESCRIPTION:Calculated VA payment date for July 2027 benefits. VA pays bene
+ fits in arrears and generally releases payment on the first of the followi
+ ng month\, or the preceding banking day when the first is a weekend or fed
+ eral holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for August 2026
+UID:va-benefits-2027-08-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:VA Benefits Payment - August 2027
+DESCRIPTION:Calculated VA payment date for August 2027 benefits. VA pays be
+ nefits in arrears and generally releases payment on the first of the follo
+ wing month\, or the preceding banking day when the first is a weekend or f
+ ederal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261001
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for September 2026
+UID:va-benefits-2027-09-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:VA Benefits Payment - September 2027
+DESCRIPTION:Calculated VA payment date for September 2027 benefits. VA pays
+  benefits in arrears and generally releases payment on the first of the fo
+ llowing month\, or the preceding banking day when the first is a weekend o
+ r federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for October 2026
+UID:va-benefits-2027-10-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:VA Benefits Payment - October 2027
+DESCRIPTION:Calculated VA payment date for October 2027 benefits. VA pays b
+ enefits in arrears and generally releases payment on the first of the foll
+ owing month\, or the preceding banking day when the first is a weekend or 
+ federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261201
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for November 2026
+UID:va-benefits-2027-11-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:VA Benefits Payment - November 2027
+DESCRIPTION:Calculated VA payment date for November 2027 benefits. VA pays 
+ benefits in arrears and generally releases payment on the first of the fol
+ lowing month\, or the preceding banking day when the first is a weekend or
+  federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261231
-SUMMARY:VA Benefits Payment
-DESCRIPTION:Official VA Payment Date for December 2026
+UID:va-benefits-2027-12-official@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:VA Benefits Payment - December 2027
+DESCRIPTION:Calculated VA payment date for December 2027 benefits. VA pays 
+ benefits in arrears and generally releases payment on the first of the fol
+ lowing month\, or the preceding banking day when the first is a weekend or
+  federal holiday.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

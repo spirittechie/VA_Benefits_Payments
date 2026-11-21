@@ -1,64 +1,163 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 PRODID:-//VA Benefits Payment Calendar//EN
+X-WR-CALNAME:Estimated VA Early Deposits - 1 Banking Day - 2027
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for January 2026
+UID:va-benefits-2027-01-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Estimated VA Early Deposit (1 banking day) - January 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for February 2026
+UID:va-benefits-2027-02-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Estimated VA Early Deposit (1 banking day) - February 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for March 2026
+UID:va-benefits-2027-03-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Estimated VA Early Deposit (1 banking day) - March 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for April 2026
+UID:va-benefits-2027-04-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Estimated VA Early Deposit (1 banking day) - April 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for May 2026
+UID:va-benefits-2027-05-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Estimated VA Early Deposit (1 banking day) - May 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for June 2026
+UID:va-benefits-2027-06-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Estimated VA Early Deposit (1 banking day) - June 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for July 2026
+UID:va-benefits-2027-07-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Estimated VA Early Deposit (1 banking day) - July 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for August 2026
+UID:va-benefits-2027-08-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Estimated VA Early Deposit (1 banking day) - August 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for September 2026
+UID:va-benefits-2027-09-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Estimated VA Early Deposit (1 banking day) - September 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for October 2026
+UID:va-benefits-2027-10-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Estimated VA Early Deposit (1 banking day) - October 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for November 2026
+UID:va-benefits-2027-11-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:Estimated VA Early Deposit (1 banking day) - November 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261230
-SUMMARY:VA Benefits Payment
-DESCRIPTION:VA Benefits Payment for December 2026
+UID:va-benefits-2027-12-early-1@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+SUMMARY:Estimated VA Early Deposit (1 banking day) - December 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 1 banking day before the calculated official payment date. This is not 
+ a VA promise. Confirm timing with the bank\, credit union\, payment app\, 
+ or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

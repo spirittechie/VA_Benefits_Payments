@@ -1,90 +1,71 @@
-# VA Benefits Payment Calendar (2026)
-This repository provides `.ics` calendar files for VA benefits payments in 2026, including both the **official VA payment schedule** and an **adjusted early deposit version** for those who receive funds a day earlier.
+# VA Benefits Payment Calendar (2027)
 
-## 📌 About
-Many veterans receive their VA benefits payments on a different schedule depending on their financial institution. Some credit unions and online banks process payments **one or more days early**. This repository includes two `.ics` calendar files:
+This repository provides importable `.ics` calendars for monthly VA benefits payments. It separates the calculated VA payment date, estimated institution-specific early availability, and an estimated ACH notice window so those three events are not mistaken for one another.
 
-1. **VA_Standard.ics** - The standard VA benefits payment dates.
-2. **VA_EarlyDeposit_1Day.ics** - Adjusted payment dates for those who receive funds **one day early**.
+VA benefits are paid in arrears. VA generally releases a monthly payment on the first day of the following month. When the first is a weekend or federal holiday, the calculated payment date moves to the preceding banking day. Early access is a courtesy or policy of the receiving bank, credit union, payment app, or other financial institution; it is not the official VA payment date.
 
-Future updates may include **customized versions** for institutions that release funds **two or three days early**, based on community feedback.
+## Calendar files
 
-## 📅 Payment Schedule for 2026
+| File | Meaning |
+| --- | --- |
+| [`VA_Standard.ics`](VA_Standard.ics) | Calculated VA payment dates |
+| [`VA_EarlyDeposit_1Day.ics`](VA_EarlyDeposit_1Day.ics) | Estimated availability one banking day early |
+| [`VA_EarlyDeposit_2Days.ics`](VA_EarlyDeposit_2Days.ics) | Estimated availability two banking days early |
+| [`VA_EarlyDeposit_3Days.ics`](VA_EarlyDeposit_3Days.ics) | Estimated availability three banking days early |
+| [`VA_EarlyDeposit_4Days.ics`](VA_EarlyDeposit_4Days.ics) | Estimated availability four banking days early |
+| [`VA_ACH_Notice.ics`](VA_ACH_Notice.ics) | Estimated date to begin watching for a VA notice or pending ACH information |
 
-| Month      | VA Official Date | Early Deposit Date |
-|------------|----------------|-------------------|
-| January    | Jan 31, 2026    | Jan 30, 2026     |
-| February   | Feb 28, 2026    | Feb 27, 2026     |
-| March      | Apr 1, 2026     | Mar 31, 2026     |
-| April      | May 1, 2026     | Apr 30, 2026     |
-| May        | May 30, 2026    | May 29, 2026     |
-| June       | Jul 1, 2026     | Jun 30, 2026     |
-| July       | Aug 1, 2026     | Jul 31, 2026     |
-| August     | Aug 29, 2026    | Aug 28, 2026     |
-| September  | Oct 1, 2026     | Sep 30, 2026     |
-| October    | Oct 31, 2026    | Oct 30, 2026     |
-| November   | Dec 1, 2026     | Nov 28, 2026     |
-| December   | Dec 31, 2026    | Dec 30, 2026     |
+Choose one payment calendar based on the observed policy of your receiving institution. Importing multiple early-deposit calendars will create overlapping estimates.
 
-## 🔧 How to Use
-### Importing into Google Calendar
-1. **Download the `.ics` file** you need:
-   - [VA_Standard.ics](VA_Standard.ics) *(Standard VA Schedule)*
-   - [VA_EarlyDeposit_1Day.ics](VA_EarlyDeposit_1Day.ics) *(One-Day Early Deposit Schedule)*
+## 2027 schedule
 
-2. **Open Google Calendar** on your desktop.
-3. Click on the ⚙ **Settings** icon → Select **Import & Export**.
-4. Under **Import**, click **Select file from your computer**, choose the `.ics` file, and select the calendar you want to add it to.
-5. Click **Import**, and you're all set!
+The month column identifies the month in which benefits accrue, not necessarily the month in which the payment reaches the account.
 
-### Importing into Apple Calendar
-1. Download the `.ics` file.
-2. Open **Apple Calendar**, then go to **File → Import**.
-3. Select the `.ics` file and choose which calendar to add the events to.
+| Benefit month | Calculated VA payment date | Estimated one-banking-day-early date | Estimated ACH notice window |
+| --- | --- | --- | --- |
+| January | February 1, 2027 | January 29, 2027 | January 25, 2027 |
+| February | March 1, 2027 | February 26, 2027 | February 22, 2027 |
+| March | April 1, 2027 | March 31, 2027 | March 24, 2027 |
+| April | April 30, 2027 | April 29, 2027 | April 22, 2027 |
+| May | June 1, 2027 | May 28, 2027 | May 24, 2027 |
+| June | July 1, 2027 | June 30, 2027 | June 23, 2027 |
+| July | July 30, 2027 | July 29, 2027 | July 22, 2027 |
+| August | September 1, 2027 | August 31, 2027 | August 24, 2027 |
+| September | October 1, 2027 | September 30, 2027 | September 23, 2027 |
+| October | November 1, 2027 | October 29, 2027 | October 25, 2027 |
+| November | December 1, 2027 | November 30, 2027 | November 23, 2027 |
+| December | December 30, 2027 | December 29, 2027 | December 22, 2027 |
 
-## 🏦 Financial Institutions & Early Deposits
-Some banks and credit unions release funds early (1–4 days before the official VA date, depending on weekends/holidays and bank policies) 
-chime.com +2
- . This is common for military/veteran-focused institutions. If your bank follows this, you can request custom .ics files via issues or PRs.
+The ACH notice calendar uses a configurable eight-calendar-day lead and moves a weekend or federal-holiday estimate forward to the next banking day. It is an informational watch date, not a confirmed VA transmission date, an official release date, or a guarantee that funds are available.
 
-Updated List of Banks/Credit Unions Known for Early Deposits:
+## Import a calendar
 
-1-3 Days Early: USAA, Navy Federal Credit Union (NFCU), PenFed, America First CU, Armed Forces Bank, FrontWave Credit Union 
-reddit.com +3
- . (E.g., often 1-3 days for VA benefits 
-vaclaimsinsider.com
-.)
-Up to 2-4 Days Early: Chime (up to 2 days standard, sometimes more if weekends) 
-chime.com
-, SoFi, Varo, Discover Bank 
-reddit.com
-. (Some users report 4 days early on weekends 
-reddit.com
-.)
-Other Options: AmeriCU and VBBP-participating banks/credit unions (experienced with veteran direct deposits, may offer early access) 
-benefits.va.gov +1
- .
-For the absolute earliest deposits, banks like Chime can provide up to 2 days early routinely 
-chime.com
-, while others like USAA or NFCU may hit 3-4 days if the official date falls near a weekend/holiday 
-reddit.com +1
- . Always verify with your bank, as VA payments are made in arrears on the first business day of the following month (or last business day prior if a holiday) 
-military.com +2
- .
+Download the single `.ics` payment calendar that matches your situation. You may also download `VA_ACH_Notice.ics` if you want the separate notice-window reminders.
 
-If you share more details (e.g., specific banks or how many days early), I can help refine this further or generate sample .ics files!
+In Google Calendar, open **Settings**, select **Import & export**, choose the downloaded file, select the destination calendar, and import it.
 
-## 📩 Contributing & Requests
-If your financial institution deposits **earlier than one day**, let us know! Open a GitHub issue with:
-- Your bank/credit union name
-- How many days early you receive payments
-- Any documentation or reference
+In Apple Calendar, select **File**, then **Import**, choose the downloaded file, and select the destination calendar.
 
-We will create new `.ics` files accordingly.
+Outlook supports `.ics` imports through its calendar import or add-calendar controls. The exact menu name varies between classic Outlook, new Outlook, and Outlook on the web.
 
-## ⚠️ Disclaimer
-This project is **not affiliated with the VA or any government agency**. Payment dates are based on publicly available data and user-reported deposit times. Always check with your financial institution to confirm your specific deposit schedule.
+## Source authority and limitations
 
----
+The date calculation follows [VA payment guidance](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000256488/VA-Payments), which states that VA payments are generally released on the first and move to the preceding weekday when the first is a federal holiday or weekend. Federal holiday handling follows the [U.S. Office of Personnel Management holiday schedule](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/).
 
-Let me know if you want any adjustments before you upload it!
+No early-deposit estimate is a promise by VA or a financial institution. Institution policies can change, transaction processing can vary, and a pending entry does not necessarily mean funds are spendable. Confirm actual availability with the bank, credit union, payment app, prepaid account provider, or other institution receiving the direct deposit.
+
+This project is not affiliated with the U.S. Department of Veterans Affairs or any other government agency.
+
+## Maintenance and contributions
+
+`calendar_config.json` is the annual control file. `generate_ics.py` calculates banking days and produces every committed calendar. Do not hand-edit generated `.ics` files.
+
+Run the generator and validation locally with:
+
+```bash
+python3 generate_ics.py
+python3 -m unittest discover -s tests -v
+python3 generate_ics.py --check
+```
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) before proposing a change. Calendar corrections and institution-timing reports need a source or a concrete, dated observation. Direct repository, credential, secret, or vault access is not required to contribute.

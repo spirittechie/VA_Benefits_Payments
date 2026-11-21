@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//VA Benefits Payment Calendar//EN
+X-WR-CALNAME:Estimated VA ACH Notice Windows 2027
+BEGIN:VEVENT
+UID:va-benefits-2027-01-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Estimated VA ACH Notice Window - January 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-02-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Estimated VA ACH Notice Window - February 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-03-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Estimated VA ACH Notice Window - March 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-04-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Estimated VA ACH Notice Window - April 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-05-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Estimated VA ACH Notice Window - May 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-06-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Estimated VA ACH Notice Window - June 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-07-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Estimated VA ACH Notice Window - July 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-08-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Estimated VA ACH Notice Window - August 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-09-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Estimated VA ACH Notice Window - September 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-10-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:Estimated VA ACH Notice Window - October 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-11-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:Estimated VA ACH Notice Window - November 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:va-benefits-2027-12-ach-notice@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:Estimated VA ACH Notice Window - December 2027
+DESCRIPTION:Informational watch date approximately 8 calendar days before t
+ he calculated payment date. A VA notice or pending transaction may appear 
+ around this time. This is not the official payment date\, a confirmed ACH 
+ transmission date\, or a guarantee that funds are available. Timing varies
+  by VA processing and receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

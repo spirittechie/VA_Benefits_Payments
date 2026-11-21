@@ -1,100 +1,163 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 PRODID:-//VA Benefits Payment Calendar//EN
+X-WR-CALNAME:Estimated VA Early Deposits - 4 Banking Days - 2027
 BEGIN:VEVENT
-UID:va-2026-january-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260127
-DTEND;VALUE=DATE:20260128
-SUMMARY:VA Benefits Payment - January 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-01-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Estimated VA Early Deposit (4 banking days) - January 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-february-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
-SUMMARY:VA Benefits Payment - February 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-02-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Estimated VA Early Deposit (4 banking days) - February 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-march-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:VA Benefits Payment - March 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-03-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Estimated VA Early Deposit (4 banking days) - March 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-april-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:VA Benefits Payment - April 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-04-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Estimated VA Early Deposit (4 banking days) - April 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-may-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:VA Benefits Payment - May 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-05-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Estimated VA Early Deposit (4 banking days) - May 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-june-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:VA Benefits Payment - June 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-06-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Estimated VA Early Deposit (4 banking days) - June 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-july-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:VA Benefits Payment - July 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-07-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Estimated VA Early Deposit (4 banking days) - July 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-august-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:VA Benefits Payment - August 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-08-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Estimated VA Early Deposit (4 banking days) - August 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-september-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:VA Benefits Payment - September 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-09-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Estimated VA Early Deposit (4 banking days) - September 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-october-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:VA Benefits Payment - October 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-10-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:Estimated VA Early Deposit (4 banking days) - October 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-november-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:VA Benefits Payment - November 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-11-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Estimated VA Early Deposit (4 banking days) - November 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:va-2026-december-4days.ics@jessepaul.com
-DTSTAMP:20251224T021533Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-SUMMARY:VA Benefits Payment - December 2026
-DESCRIPTION:Estimated early deposit; confirm with your bank. This is an estimate based on bank early deposit policies; actual dates may vary [5][6][7].
+UID:va-benefits-2027-12-early-4@va-benefits-payments
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:Estimated VA Early Deposit (4 banking days) - December 2027
+DESCRIPTION:Estimate for an institution that usually makes VA funds availab
+ le 4 banking days before the calculated official payment date. This is not
+  a VA promise. Confirm timing with the bank\, credit union\, payment app\,
+  or other receiving institution.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
