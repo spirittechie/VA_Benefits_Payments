@@ -17,6 +17,21 @@ VA benefits are paid in arrears. VA generally releases a monthly payment on the 
 
 Choose one payment calendar based on the observed policy of your receiving institution. Importing multiple early-deposit calendars will create overlapping estimates.
 
+## Subscribe to automatic updates
+
+Apple users can click the appropriate button below to add a read-only calendar subscription. Because the subscription points to the stable file on `master`, future annual calendar updates will appear without downloading and importing another file.
+
+| Calendar | Apple Calendar | Public subscription address |
+| --- | --- | --- |
+| Calculated VA payment dates | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_Standard.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_Standard.ics) |
+| Estimated one banking day early | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_1Day.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_1Day.ics) |
+| Estimated two banking days early | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_2Days.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_2Days.ics) |
+| Estimated three banking days early | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_3Days.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_3Days.ics) |
+| Estimated four banking days early | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_4Days.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_EarlyDeposit_4Days.ics) |
+| Estimated ACH notice window | [![Subscribe with Apple Calendar](https://img.shields.io/badge/Apple_Calendar-Subscribe-000000?logo=apple)](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_ACH_Notice.ics) | [HTTPS feed](https://raw.githubusercontent.com/spirittechie/VA_Benefits_Payments/master/VA_ACH_Notice.ics) |
+
+For Google Calendar, copy the appropriate HTTPS feed, open [Google Calendar's From URL settings](https://calendar.google.com/calendar/u/0/r/settings/addbyurl) on a computer, paste the address, and select **Add calendar**. Google does not support adding a URL subscription from its Android, iPhone, or iPad app.
+
 ## 2027 schedule
 
 The month column identifies the month in which benefits accrue, not necessarily the month in which the payment reaches the account.
