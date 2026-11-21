@@ -1,0 +1,6 @@
+{
+  "benefit_year": 2027,
+  "generated_at_utc": "20261121T000000Z",
+  "ach_notice_lead_calendar_days": 8,
+  "early_deposit_banking_days": [1, 2, 3, 4]
+}
