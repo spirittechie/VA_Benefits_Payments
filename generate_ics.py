@@ -288,7 +288,8 @@ def check_calendars(calendars: dict[str, str], output_dir: Path) -> bool:
             print(f"missing generated calendar: {filename}", file=sys.stderr)
             clean = False
             continue
-        actual = path.read_text(encoding="utf-8", newline="")
+        with path.open("r", encoding="utf-8", newline="") as handle:
+            actual = handle.read()
         if actual != expected:
             print(f"generated calendar is out of date: {filename}", file=sys.stderr)
             clean = False
