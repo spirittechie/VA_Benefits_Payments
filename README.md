@@ -4,6 +4,10 @@ This repository provides importable `.ics` calendars for monthly VA benefits pay
 
 VA benefits are paid in arrears. VA generally releases a monthly payment on the first day of the following month. When the first is a weekend or federal holiday, the calculated payment date moves to the preceding banking day. Early access is a courtesy or policy of the receiving bank, credit union, payment app, or other financial institution; it is not the official VA payment date.
 
+## Official VA payment text notifications
+
+[Enable official VA payment text notifications](https://www.va.gov/profile/) through your VA.gov profile. For enrollment instructions, troubleshooting, and documented observations of notifications arriving on the 22nd of the month, see [VA Benefits Payment Text Notifications](VA_PAYMENT_NOTIFICATIONS.md). A payment-processing text is not confirmation that an ACH transfer has completed or that funds are available.
+
 ## Calendar files
 
 | File | Meaning |
